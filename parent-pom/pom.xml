@@ -48,7 +48,7 @@
 							<provider>MC</provider>
 							<muleVersion>4.4.0</muleVersion>
 							<server>cloudhub-deploy</server>							<!-- reads credentials from settings.xml -->
-							<applicationName>${project.name}</applicationName>
+							<applicationName>check-in-auto</applicationName>
 							<replicas>1</replicas>
 							<vCores>0.1</vCores>
 							<deploymentTimeout>240000</deploymentTimeout>
